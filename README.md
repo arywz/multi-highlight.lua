@@ -1,8 +1,8 @@
 # multi-highlight.nvim
 
-Highlight multiple word with different colors
+Highlight multiple words with different colors writen in Lua
 
-<img src="https://github.com/arywz/multi-highlight.nvim/blob/master/img/shot.png" alt="screenshot" width="800"/>
+![screenshot](https://github.com/arywz/multi-highlight.nvim/blob/master/img/shot.png)
 
 ## Installation
 
@@ -21,12 +21,12 @@ Plug 'arywz/multi-highlight.nvim'
 
 ### Use Default
 ```
-require'shade'.setup()
+require'multi-highlight'.setup()
 ```
 
 ### Custom colors and key-mapping
 ```
-require'shade'.setup({
+require'multi-highlight'.setup({
     -- you can add any number of colors you like
     groups = {'#AEEE00', '#aa2222', '#22aa22', '#2222aa', '#B08020', '#FFA020', '#22aa22', '#8888ff'},
     keys = {
@@ -40,3 +40,6 @@ require'shade'.setup({
 
 Copyright (c) Ary.Wzh. Distributed under the MIT license
 
+## Special Thanks
+
+[https://github.com/lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) -- inspiration
