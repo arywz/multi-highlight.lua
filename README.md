@@ -38,7 +38,7 @@ require'multi-highlight'.setup({
 
 ## License
 
-Copyright (c) Ary.Wzh. Distributed under the MIT license
+MIT license
 
 ## Special Thanks
 
