@@ -66,6 +66,4 @@ function M.clear()
     end
 end
 
-M.setup()
-
 return M
