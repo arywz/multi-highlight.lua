@@ -2,7 +2,7 @@
 
 Highlight multiple word with different colors
 
-<img src="" alt="screenshot" width="800"/>
+<img src="https://github.com/arywz/multi-highlight.nvim/blob/master/img/shot.png" alt="screenshot" width="800"/>
 
 ## Installation
 
